@@ -1,0 +1,29 @@
+<img src="./subi_logo.png" />
+
+=Subi Improvement Proposals (SIP)=
+
+==Description==
+A Subi Improvement Proposal (SIP) is a design document providing information to the Subi community, or describing a new feature for Subi or its processes or environment. The SIP should provide a concise technical specification of the feature and a rationale for the feature.
+
+We intend SIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Subi. The SIP author is responsible for building consensus within the community and documenting dissenting opinions.
+
+==Directory==
+
+{|class="wikitable sortable" style="width: auto; text-align: center;"
+!Number!!Title!!Status
+|-
+|[[./SIP-0000/SIP-0000.mediawiki|0000]]||SIP Template||Active
+|}
+
+==Acknowledgements==
+
+This process was heavily influenced by the Bitcoin Improvement Proposal (BIP)
+process and Decred Change Proposal (DCP) although it has been modified to fit the needs of Subi.  
+
+* The BIP process document from which portions of this document are based is licensed under the BSD-2-Clause license by author "Luke Dashjr &lt;luke+bip@dashjr.org&gt;".
+
+* The DCP process document from which portions of this document are based is licensed under the CC0-1.0 license by author "Jake Yocum-Piatt"
+
+==License==
+
+The SIP process document is released under the terms of the MIT license. For more information see https://opensource.org/licenses/MIT.
